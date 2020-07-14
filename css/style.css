@@ -1,13 +1,16 @@
-/*////////////// Fonts //////////////*/
+/*////////////// Fonts //////////////*
+f7f0ee
+98a7a2/
 
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
 
 body {
-	background: #F3EBE9;
+	background: rgb(247, 240, 238);
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
+
 }
 
 .wrapper {
