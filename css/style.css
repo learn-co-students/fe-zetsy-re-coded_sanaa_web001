@@ -18,3 +18,24 @@ body {
 }
 
 /* Write all remaining styles here */
+img{
+	border: #9FAAA6 solid 3px ;
+}
+h2{
+	color: #8B968B;
+	font-size: 30px;
+	
+}
+h1{
+	color: #9DADA8;
+	font-size:60px;
+	font-weight: lighter;
+
+}
+#copy-rights{
+	display: flow-root;
+}
+#copy-rights>p{
+	float: right;
+	margin-right: 20px;
+}
