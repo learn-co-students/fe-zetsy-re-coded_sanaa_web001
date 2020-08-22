@@ -1,7 +1,9 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+@font-face {
+	src: url("./fonts/Baskerville.ttc") format("ttc");
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -17,4 +19,9 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+
+
+/*f3ebe9
+72807b border hover
+c9cbca img border
+698479 about*/
